@@ -1,6 +1,4 @@
 // Vincent Revel Aldisa_205150200111019
-// Muhammad Huda Nugraha 205150201111015
-// Muhamad Haikal Fajri_205150207111016
 
 package HTMLProject;
 import java.util.Scanner;
